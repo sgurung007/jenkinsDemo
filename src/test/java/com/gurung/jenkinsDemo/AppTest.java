@@ -36,7 +36,7 @@ public class AppTest
 		} catch (Exception e) {
 			// TODO: handle exception
 		}
-        Assert.assertEquals(titleBBC, "BBC - Homepage2");
+        Assert.assertEquals(titleBBC, "BBC - Homepage");
         
         driver.close();
         driver.quit();
